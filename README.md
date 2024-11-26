@@ -19,7 +19,7 @@
 ### 4 - Executando testes
 ### 5 - Implantação
 ### 6 - Contribuindo
-### 7 -Pré-requisitos
+### 7 - Pré-requisitos
 
 ## Antes de começar, certifique-se de ter o seguinte instalado:
 Node.js (versão 14 ou superior)
