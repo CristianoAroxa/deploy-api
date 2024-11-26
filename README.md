@@ -1,8 +1,8 @@
 # Visão geral
 
-##Este aplicativo Node.js foi projetado para fornecer uma API robusta com documentação abrangente usando o Swagger. A aplicação é responsável por receber respostas de uma prova mobile e retornar o resultado, incluindo a quantidade de acertos e a porcentagem alcançada. Inclui testes automatizados usando Jest e está hospedada na AWS. Este documento descreve a configuração, o uso e o teste do aplicativo.
+## Este aplicativo Node.js foi projetado para fornecer uma API robusta com documentação abrangente usando o Swagger. A aplicação é responsável por receber respostas de uma prova mobile e retornar o resultado, incluindo a quantidade de acertos e a porcentagem alcançada. Inclui testes automatizados usando Jest e está hospedada na AWS. Este documento descreve a configuração, o uso e o teste do aplicativo.
 
-Citations:
+## Citations:
 [1] https://github.com/swagger-api/swagger-node
 [2] https://dev.to/qbentil/swagger-express-documenting-your-nodejs-rest-api-4lj7
 [3] https://pplware.sapo.pt/informacao/tutorial-como-desenvolver-uma-api-com-node-js-e-swagger/
